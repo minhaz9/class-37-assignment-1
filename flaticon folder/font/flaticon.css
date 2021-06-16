@@ -1,0 +1,33 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?59f9d3a16ef04cb6245234730ec639ce") format("truetype"), url("./flaticon.woff?59f9d3a16ef04cb6245234730ec639ce") format("woff"), url("./flaticon.woff2?59f9d3a16ef04cb6245234730ec639ce") format("woff2"), url("./flaticon.eot?59f9d3a16ef04cb6245234730ec639ce#iefix") format("embedded-opentype"), url("./flaticon.svg?59f9d3a16ef04cb6245234730ec639ce#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-user-experience:before {
+  content: "";
+}
+
+.flaticon-speed:before {
+  content: "";
+}
+
+.flaticon-reliability:before {
+  content: "";
+}
+
+.flaticon-play-button:before {
+  content: "";
+}
+/*# sourceMappingURL=flaticon.css.map */
